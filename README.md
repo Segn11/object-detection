@@ -52,36 +52,6 @@ Ultralytics YOLOv8	Object detection model
 Argparse	Command-line argument parsing
 
 
-# ⚙️ Installation
-
-1️⃣ Clone the Repository
-
-git clone https://github.com/yourusername/Object-detection.git
-cd Object-detection
-
-2️⃣ Create a Virtual Environment (Recommended)
-python -m venv venv
-
-Activate the environment:
-
-Windows
-venv\Scripts\activate
-Mac / Linux
-source venv/bin/activate
-
-3️⃣ Install Dependencies
-pip install ultralytics opencv-python
-
-▶️ Usage
-
-Run the program using:
-
-python main.py
-
-Optional parameters:
-
-python main.py --model-path yolov8n.pt --conf 0.25
-
 # 🔧 Arguments
 Argument	Description	Default
 --model-path	Path to YOLOv8 model	yolov8n.pt
