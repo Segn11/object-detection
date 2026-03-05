@@ -50,13 +50,17 @@ Python	Core programming language
 OpenCV	Webcam capture & image display
 Ultralytics YOLOv8	Object detection model
 Argparse	Command-line argument parsing
+
 # 📁 Project Structure
+
 object-detection/
 │
 ├── main.py        # Webcam object detection script
 ├── yolov8n.pt     # Pretrained YOLOv8 model
 └── README.md
+
 # ⚙️ Installation
+
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/Object-detection.git
 cd Object-detection
