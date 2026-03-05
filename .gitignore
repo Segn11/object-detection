@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+
+# Dataset files
+datasets/
+data/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
