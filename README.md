@@ -1,4 +1,4 @@
- # 🚀 YOLOv8 Live Webcam Object Detection
+# 🚀 YOLOv8 Live Webcam Object Detection
 
 A real-time object detection system built using YOLOv8, OpenCV, and Python that detects objects directly from your webcam feed.
 
